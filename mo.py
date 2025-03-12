@@ -31,7 +31,7 @@ class SuperResolutionNet(nn.Module):
 def init_torch_model():
     torch_model = SuperResolutionNet()
 
-    # Please read the code about downloading 'srcnn.pth' and 'face.png' in
+    # Please read the code about downloading 'srcnn.pth' and 'face.png' in adsd
     # https://mmdeploy.readthedocs.io/zh_CN/latest/tutorials/chapter_01_introduction_to_model_deployment.html#pytorch
     state_dict = torch.load('srcnn.pth')['state_dict']
 
