@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 sdsa
 zzc
 w zhende shi aini de 
 import numpy as np
 import tensorflow as t
+=======
+sdad:wq
+
+>>>>>>> 15ffbd5 (make a change)
