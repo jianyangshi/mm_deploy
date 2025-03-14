@@ -1,5 +1,5 @@
 import torch
-
+import numpy as np
 class Model(torch.nn.Module):
     def __init__(self, n):
         super().__init__()
